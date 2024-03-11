@@ -10,7 +10,7 @@ Download the latest `RoundTimer.dll` from [Releases](https://github.com/jake-gre
 ## TODO
 - Keybind hide / show
 - Add a movable / resizable window
-- Add configigurable options for:
+- Add configurable options for:
   - Hide / fade in combat
   - Which map to enable for
   - toggle colours
