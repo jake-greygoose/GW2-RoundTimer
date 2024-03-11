@@ -15,3 +15,6 @@ Download the latest `RoundTimer.dll` from [Releases](https://github.com/jake-gre
   - Which map to enable for
   - toggle colours
   - background opacity
+
+
+![](https://i.imgur.com/esu3LQD.png)
