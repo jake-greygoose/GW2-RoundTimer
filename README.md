@@ -17,4 +17,4 @@ Download the latest `RoundTimer.dll` from [Releases](https://github.com/jake-gre
   - background opacity
 
 
-![](https://i.imgur.com/esu3LQD.png)
+![](https://i.imgur.com/dZ6aZhu.png)
