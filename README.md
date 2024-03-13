@@ -8,11 +8,13 @@ Download the latest `RoundTimer.dll` from [Releases](https://github.com/jake-gre
 
 
 ## TODO
-- Keybind hide / show
+- Fade on Character Movement / Fade on Camera Movement
 - Add a movable / resizable window
 - Add configurable options for:
-  - Custom Map Allowlist (you can add this manually to the config atm)
+  - Custom Map Allowlist
   - background opacity
 
+
+![](https://i.imgur.com/Pdu65Co.png)
 
 ![](https://i.imgur.com/dZ6aZhu.png)
