@@ -8,10 +8,8 @@ Download the latest `RoundTimer.dll` from [Releases](https://github.com/jake-gre
 
 
 ## TODO
-- Fade on Character Movement / Fade on Camera Movement
 - Add a movable / resizable window
 - Add configurable options for:
-  - Custom Map Allowlist
   - background opacity
 
 
