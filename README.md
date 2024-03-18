@@ -11,6 +11,6 @@ Download the latest `RoundTimer.dll` from [Releases](https://github.com/jake-gre
 - Add a movable / resizable window
 
 
-![](https://i.imgur.com/YJfqPxy.png)
+![](https://i.imgur.com/0fe4wml.png)
 
 ![](https://i.imgur.com/dZ6aZhu.png)
