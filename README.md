@@ -1,6 +1,6 @@
 # GW2 RoundTimer
 
-GW2 Addon that adds a simple round timer to Guild Hall & Armistice Bastion.
+A round timer addon for GW2 Guild Hall & Armistice Bastion gvg's.
 
 ## Installation
 Requires the [Nexus](https://raidcore.gg/Nexus) Addon Host.
@@ -9,10 +9,8 @@ Download the latest `RoundTimer.dll` from [Releases](https://github.com/jake-gre
 
 ## TODO
 - Add a movable / resizable window
-- Add configurable options for:
-  - background opacity
 
 
-![](https://i.imgur.com/Pdu65Co.png)
+![](https://i.imgur.com/YJfqPxy.png)
 
 ![](https://i.imgur.com/dZ6aZhu.png)
